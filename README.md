@@ -91,18 +91,31 @@ print("For population = 70,000,we predict a profit of $"+str(round(predict2,0)))
 ## Output:
 ![linear regression using gradient descent](sam.png)
 
+1. Profit Prediction graph:
+
 ![profitprediction](https://user-images.githubusercontent.com/118343610/229329646-8977d4ee-b632-4228-b6b6-e96504c5445a.png)
 
+2.Compute Cost Value:
 
 ![costcompute](https://user-images.githubusercontent.com/118343610/229329682-b06bbf9a-b82d-4675-80de-59e38d56f04c.png)
 
+3.h(x) Value:
+
 ![hofx](https://user-images.githubusercontent.com/118343610/229329712-d9a303f0-ef98-4396-8dbb-53f0885aebb2.png)
+
+4.Cost function using Gradient Descent Graph:
 
 ![cf using gd](https://user-images.githubusercontent.com/118343610/229329727-a976b0c7-7bc9-44f3-8698-e2ca05418f40.png)
 
+5.Profit Prediction Graph:
+
 ![pp](https://user-images.githubusercontent.com/118343610/229329765-bb8e1c08-c7a5-4f2d-b6e1-83ff90782400.png)
 
+6.Profit for the Population 35,000:
+
 ![m1](https://user-images.githubusercontent.com/118343610/229329800-d2cfd197-5445-459c-bb60-04d660fe5cdd.png)
+
+7.Profit for the Population 70,000:
 
 ![m2](https://user-images.githubusercontent.com/118343610/229329809-e8c68d5f-c7be-43fa-9300-d2d9b77fcc2d.png)
 
